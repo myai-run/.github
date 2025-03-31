@@ -1,7 +1,7 @@
 # 🚀 AiRun - Code. Innovate. Inspire. 🎯
 
-[![GitHub followers](https://img.shields.io/github/followers/withmeinc?style=social)](https://github.com/myai-run)
-[![GitHub Org's stars](https://img.shields.io/github/stars/withmeinc?style=social)](https://github.com/myai-run)
+[![GitHub followers](https://img.shields.io/github/followers/myai-run?style=social)](https://github.com/myai-run)
+[![GitHub Org's stars](https://img.shields.io/github/stars/myai-run?style=social)](https://github.com/myai-run)
 [![Discord](https://img.shields.io/discord/123456789?label=Join%20Us&logo=discord&color=7289da)](https://discord.gg/your-invite-link)
 
 Welcome to **WithMeInc**! 🚀 We're a team of passionate developers, designers, and innovators building next-generation open-source projects. Let's code together and make an impact! 💡💻
