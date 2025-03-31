@@ -8,7 +8,7 @@ Welcome to **WithMeInc**! 🚀 We're a team of passionate developers, designers,
 
 ---
 
-## 🌟 Why Ai Run - ای‌ران?
+## 🌟 Why Ai Run?
 
 ✅ **Open-Source Focused** – We believe in collaboration & transparency.  
 ✅ **AI & Big Data Enthusiasts** – Creating smart solutions powered by AI.  
