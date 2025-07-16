@@ -2,9 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/myai-run?style=social)](https://github.com/myai-run)
 [![GitHub Org's stars](https://img.shields.io/github/stars/myai-run?style=social)](https://github.com/myai-run)
-[![Discord](https://img.shields.io/discord/123456789?label=Join%20Us&logo=discord&color=7289da)](https://discord.gg/your-invite-link)
 
-Welcome to **WithMeInc**! 🚀 We're a team of passionate developers, designers, and innovators building next-generation open-source projects. Let's code together and make an impact! 💡💻
+Welcome to **Ai Run - ای‌ران**! 🚀 We're a team of passionate developers, designers, and innovators building next-generation open-source projects. Let's code together and make an impact! 💡💻
 
 ---
 
@@ -18,14 +17,7 @@ Welcome to **WithMeInc**! 🚀 We're a team of passionate developers, designers,
 ---
 
 ## 🛠️ Our Projects
-
-| 🚀 Project | 🌟 Description | 🔗 Repo |
-|-----------|--------------|--------|
-| **AI-Assistant** 🤖 | A smart AI-based chatbot for automation | [🔗 View](https://github.com/withmeinc/AI-Assistant) |
-| **BigData-Insights** 📊 | Open-source platform for data analysis | [🔗 View](https://github.com/withmeinc/BigData-Insights) |
-| **DevConnect** 🌍 | A networking platform for developers | [🔗 View](https://github.com/withmeinc/DevConnect) |
-
-Explore all our projects **[here](https://github.com/withmeinc?tab=repositories)**! 🚀
+Explore all our projects **[here](https://github.com/myai-run?tab=repositories)**! 🚀
 
 ---
 
@@ -39,7 +31,7 @@ We ❤️ open-source contributions! Follow these steps to get started:
 4. **Commit** your changes 🚀  
 5. **Submit a Pull Request** 🔥  
 
-Check our **[Contributing Guidelines](https://github.com/withmeinc/.github/blob/main/CONTRIBUTING.md)** for more details.
+Check our **[Contributing Guidelines](https://github.com/myai-run/.github/blob/main/CONTRIBUTING.md)** for more details.
 
 ---
 
