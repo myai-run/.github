@@ -38,8 +38,7 @@ Check our **[Contributing Guidelines](https://github.com/myai-run/.github/blob/m
 ## 📢 Connect With Us
 
 📧 **Email:** contact@withmeinc.com  
-🌍 **Website:** [WithMeInc.com](https://withmeinc.com)  
-🐦 **Twitter:** [@WithMeInc](https://twitter.com/WithMeInc)  
-📢 **Discord:** [Join Our Community](https://discord.gg/your-invite-link)  
+🌍 **Website:** [Ai-Run.net](https://ai-run.net)  
+🐦 **Twitter:** [@myai-run](https://twitter.com/WithMeInc)  
 
 Let's build the future together! 🚀✨
